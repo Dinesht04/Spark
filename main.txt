@@ -43,3 +43,24 @@ AI-Teaching Assistant
 AI-Tutor  
     -basic chat interface for students to chat with an AI
 
+
+Tech Stack -
+    FE:-
+        Next.js
+        Better-Auth
+        Next-API
+        ShadCN UI but with theme.
+        UI inspiration from https://teachy.ai/
+    
+    BE:-
+        Main
+            GoLang
+        Websocket - (for chat)
+            Node - Express-ws -> Very easy hosting on Render
+    DB:-
+        PostGres - NeonDB
+    
+        
+
+    
+
