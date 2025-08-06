@@ -60,7 +60,7 @@ Tech Stack -
     DB:-
         PostGres - NeonDB
     
-        
-
+    
+Make a normal ass FullStack app using Go. Integrate other features later. 
     
 
