@@ -1,0 +1,45 @@
+Idea :-
+Spark is an all encompassing Teaching Buddy which helps educators all around the world
+to create and manage classrooms with their students, In a fun way.
+
+Teacher
+    *-create classrooms
+    *-create quizzes with AI or Manual
+    -Save the quizzes
+    -Browse other teacher's quizzes
+    *-Host Real-Time Meetings
+    *-UPload/Create Assignments
+    *-Get statistics from the said assignments about the student's performance 
+    -Message their Students
+    -Have access to a Teaching Assistant.
+
+student
+    -can join teacher's classroom
+    -can message other students and their teachers
+    -Have access to AI Tutor 
+    -can answer their assignments in a Cheat-proof environment in the classroom.
+    -Can access personal statistics and feedback on how to Improve with AI.
+
+classroom
+    -Have teachers and students
+    -A stream for announcements,their replies and Assignments
+    -Have Statistics on students.
+    -Host Real-TIme meetings for students and teachers.
+
+Real-Time Meetings
+    -Teacher has host controls.
+    -Only teachers can present mic, screen and camera.
+    -Students can raise hands and chat with text.
+
+Assignments
+    -Teacher can upload assignment:- It may be a quiz, written-essay or list of questions.
+    -Students have to answer the assignments.
+    -AI can also help the teacher while creating an assignment.
+    -AI can help the students by analysing the answers while grading, only if the teachers asks.
+
+AI-Teaching Assistant
+    -basic chat interface for teachers to chat with an AI
+
+AI-Tutor  
+    -basic chat interface for students to chat with an AI
+
